@@ -1,0 +1,20 @@
+center {
+    color: rgb(92, 79, 79);
+    font-size: 20px;
+    padding-top: 200px;
+  }
+
+  .main {
+    background-image: url(
+        "https://www.saveetha.ac.in/images/sec/2024/sdd.jpg"
+    );
+    background-size: 1800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 580px;
+  }
+  
+  h2 {
+    font-weight: 550;
+    color: rgb(78, 73, 73);
+  }
